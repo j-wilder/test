@@ -18,4 +18,4 @@ Basic GitHub tutorial
 	type in commit message
 	hit escape key then type :wq
 
-8) git merge
+8) git push
