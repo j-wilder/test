@@ -1,2 +1,2 @@
 # test
-Test Public Github
+Test Public GitHub
